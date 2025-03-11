@@ -12,7 +12,7 @@
 <h2>🛠️ Technologies Used</h2>
 <ul>
     <li><strong>Python</strong> (Core programming language)</li>
-    <li><strong>HTML & CSS</strong> (For UI if applicable)</li>
+    
 </ul>
 
 <h2>🔧 How It Works</h2>
@@ -51,5 +51,4 @@
     <li>Follow the on-screen instructions to perform conversions.</li>
 </ol>
 
-<h2>💡 Example Usage</h2>
-<pre><code>
+
